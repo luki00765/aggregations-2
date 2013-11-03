@@ -125,3 +125,5 @@ db.text8.aggregate(
  Stanowi: 67,23%
  Czas: 25 sekundy
  ```
+<h3><b>e)</b></h3>
+Do zadania użyłem danych znajdujących się pod tą stroną (http://www.poipoint.pl).[Baza](/data/lpaczynski/Szkolywyzsze.csv) zawiera informacje dotyczące szkół wyższych w Polsce.
